@@ -3,24 +3,14 @@ Help Desk Azure Virtual Machine configuration and deployment lab.
 
 ## Overview
 
-This project demonstrates how to configure an Azure Virtual Machine using the Microsoft Azure portal. It covers the virtual machine creation process, including project details, VM configuration, image selection, availability settings, and VM size selection.
+## Project Objectives
 
-> **Note:** Azure deployment was limited by the free subscription quota. The project focuses on the complete configuration workflow used in real-world cloud administration.
-
----
-
-## Skills Demonstrated
-
-- Microsoft Azure Portal
-- Azure Virtual Machines
-- Cloud Infrastructure
-- Resource Group Management
-- Virtual Machine Configuration
-- VM Image Selection
-- Azure Compute Services
-- Cloud Administration
-- Basic Azure Security Settings
-- Help Desk Cloud Support
+- Navigate the Microsoft Azure Portal
+- Access the Virtual Machines service
+- Configure a new Azure Virtual Machine
+- Review available VM sizes
+- Configure VM deployment settings
+- Gain hands-on experience with Azure compute services
 
 ---
 
@@ -28,66 +18,69 @@ This project demonstrates how to configure an Azure Virtual Machine using the Mi
 
 - Microsoft Azure
 - Azure Virtual Machines
+- Cloud Computing
 - Ubuntu Server 24.04 LTS
-- Azure Resource Groups
+- Azure Portal
+
+---
+
+## Skills Demonstrated
+
+- Cloud Infrastructure
+- Virtual Machine Deployment
+- Azure Resource Management
+- Azure Compute Services
+- Infrastructure Configuration
+- Cloud Administration
+- Technical Documentation
 
 ---
 
 # Screenshots
 
-### 1. Azure Dashboard
+## 1. Azure Dashboard
 
-Opened the Microsoft Azure Dashboard before creating a virtual machine.
+Opened the Microsoft Azure Dashboard to begin creating a new Azure Virtual Machine.
 
-![Azure Dashboard](screenshots/01-azure-dashboard.png)
+![Azure Dashboard](screenshots/01-the-azure-dashboard.png)
 
 ---
 
-### 2. Virtual Machines Page
+## 2. Virtual Machines Page
 
-Navigated to the Azure Virtual Machines page.
+Navigated to the Azure Virtual Machines service to begin provisioning a new virtual machine.
 
 ![Virtual Machines Page](screenshots/02-virtual-machines-page.png)
 
 ---
 
-### 3. Create Virtual Machine
+## 3. Create Virtual Machine
 
-Configured the basic settings for a new Azure Virtual Machine.
+Configured the initial virtual machine settings including subscription, resource group, VM name, and deployment region.
 
 ![Create Virtual Machine](screenshots/03-create-virtual-machine.png)
 
 ---
 
-### 4. Virtual Machine Configuration
+## 4. Select VM Size
 
-Configured the project details, operating system image, region, availability settings, and architecture.
+Reviewed available Azure Virtual Machine sizes and evaluated compute resources available for deployment.
 
-![Virtual Machine Configuration](screenshots/04-virtual-machine-configuration.png)
-
----
-
-### 5. Select VM Size
-
-Reviewed available Azure Virtual Machine sizes and attempted to select a supported VM size.
-
-![Select VM Size](screenshots/05-select-vm-size.png)
+![Select VM Size](screenshots/04-select-vm-size.png)
 
 ---
 
-### 6. Virtual Machine Configuration Details
+## 5. Virtual Machine Configuration
 
-Reviewed additional VM configuration settings before deployment.
+Configured advanced virtual machine settings including availability options, operating system image, VM architecture, security settings, and deployment options.
 
-![VM Configuration Details](screenshots/06-virtual-machine-configuration.png)
+![Virtual Machine Configuration](screenshots/05-virtual-machine-configuration.png)
 
 ---
 
-## Key Takeaways
+## Outcome
 
-- Created an Azure Virtual Machine configuration.
-- Selected VM images and compute settings.
-- Configured availability and security options.
-- Explored Azure VM sizing.
-- Practiced cloud administration using Microsoft Azure.
-- Developed hands-on Azure skills applicable to Help Desk and entry-level Cloud Support roles.
+This lab provided practical experience working with Microsoft Azure Virtual Machines, including resource configuration, infrastructure planning, and compute deployment. It strengthened foundational cloud administration skills that are valuable for Help Desk, IT Support, Cloud Support, and entry-level Azure Administrator roles.
+
+Author: Darwin Brown JR.
+Aspiring Help-Desk
